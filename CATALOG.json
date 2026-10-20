@@ -1,0 +1,22 @@
+{
+  "name": "Bangumi (unofficial)",
+  "nameI18n": {
+    "zh-TW": "Bangumi 番組計畫（非官方）",
+    "zh-CN": "Bangumi 番组计划（非官方）"
+  },
+  "description": "Anime and anime film metadata from Bangumi: Chinese and original titles, synopsis, scores, posters, voice actors, seasons, episodes and specials. No account needed. Unofficial. Metadata from Bangumi (bgm.tv), CC BY-SA.",
+  "descriptionI18n": {
+    "zh-TW": "從 Bangumi 番組計畫取得動畫與動畫電影的資料：中文與原文標題、簡介、評分、海報、聲優、季、集與特別篇。不需要帳號。非官方。 Metadata from Bangumi (bgm.tv), CC BY-SA.",
+    "zh-CN": "从 Bangumi 番组计划获取动画和动画电影的资料：中文和原文标题、简介、评分、海报、声优、季、集和特别篇。不需要账号。非官方。 Metadata from Bangumi (bgm.tv), CC BY-SA."
+  },
+  "owner": "Kryspal Media",
+  "minServer": "0.9.2-beta",
+  "homepage": "https://github.com/kryspal/plugin-bangumi",
+  "capabilities": [
+    "metadata.movie",
+    "metadata.series",
+    "metadata.series.absolute",
+    "metadata.search.hints",
+    "metadata.person"
+  ]
+}
