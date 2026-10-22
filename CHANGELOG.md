@@ -2,6 +2,10 @@
 
 All notable changes to this plugin are listed here. The version in `VERSION` is the single source of the version number; a published version is never changed.
 
+## 1.1.1
+
+- Built with plugin SDK v0.5.0. No functional change.
+
 ## 1.1.0 (2026-10-20)
 
 First public version. Earlier builds (0.1.0) ran only on test servers.
